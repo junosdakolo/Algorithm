@@ -14,7 +14,7 @@ How It Works
 
 Files
 
-- `sort1.js` — Contains the JavaScript code for Insertion Sort.
+- `sort.js` — Contains the JavaScript code for Insertion Sort.
 
  Usage
 1. Clone or download this repository.
