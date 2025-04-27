@@ -15,11 +15,7 @@ This file contains two project
   - it compares it with elements before it.
   - it Shifts larger elements to the right.
   - Insert the picked element into its correct sorted position.
-  
-  Files
-  
-  - `sort.js` — Contains the JavaScript code for Insertion Sort.
-  
+   
 2. Sentence Analyzer
 
 Project Description
